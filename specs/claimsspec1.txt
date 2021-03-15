@@ -1,0 +1,5 @@
+field name, width, datatype
+claim_id, 20 , string 
+paid_amount, 10, string
+date_of_service, 10, string
+days_supply, 2, integer

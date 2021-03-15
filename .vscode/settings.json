@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "claims",
+            "database": "C:\\Users\\praka\\Desktop\\Udacity\\claims.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
