@@ -14,6 +14,6 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/spkosana/etl-demo.git',
     license='SKosana',
-    packages=['code'],
+    packages=find_packages(),
     install_requires=['pandas'],
 )
